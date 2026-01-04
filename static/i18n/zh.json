@@ -1,6 +1,6 @@
 {
   "lang": "zh",
-  "start": "开始游戏",
+  "start": "戳这里开始",
   "normal": "普通模式",
   "endless": "无尽模式",
   "practice": "练习模式",
@@ -17,7 +17,7 @@
   "comment": "留言",
   "eat-kano": "吃掉小鹿乃",
   "default-dfjk": "默认为DFJK",
-  "default-20s": "默认为20秒",
+  "default-10s": "默认为10秒",
   "game-title": "湘亲湘爱养殖场",
   "game-intro1": "从下往上，戳一下湘湘就会出现小猪",
   "game-intro2": "戳戳戳～不要戳错哦",
